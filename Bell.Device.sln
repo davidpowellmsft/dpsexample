@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bell.Device", "Bell.Device\Bell.Device.csproj", "{84463CCD-423A-4F12-9301-2FD6209D272E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84463CCD-423A-4F12-9301-2FD6209D272E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84463CCD-423A-4F12-9301-2FD6209D272E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84463CCD-423A-4F12-9301-2FD6209D272E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84463CCD-423A-4F12-9301-2FD6209D272E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93A56767-0ECB-48D1-B20D-70CB6DB7984A}
+	EndGlobalSection
+EndGlobal
